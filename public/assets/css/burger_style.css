@@ -1,0 +1,45 @@
+  
+body{
+    background-image: url("../img/Burger.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  #burger-wrapper {
+    background-color: rgba(255, 166, 0, 0.39);
+  }
+  
+  li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .create-form {
+    margin-bottom: 10px;
+  }
